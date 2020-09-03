@@ -1,0 +1,16 @@
+{
+  "name": "react-native-mask-textinput",
+  "version": "0.1.0",
+  "description": "react-native input field mask",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mask-input",
+    "mask-in-react-native",
+    "mobile-number-input-reactnative"
+  ],
+  "author": "mharoon.j",
+  "license": "ISC"
+}
